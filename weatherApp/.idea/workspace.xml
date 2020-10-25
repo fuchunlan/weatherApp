@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5af9d604-d42b-493c-aab8-d6a0017aea01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1izmjE0Icc6cew2RpMJMeuNxTxA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Node.js.hhh.js">
+    <configuration name="hh.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/weatherApp/hh.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hhh.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hhh.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.hhh.js" />
+        <item itemvalue="JavaScript Debug.hh.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af9d604-d42b-493c-aab8-d6a0017aea01" name="Default Changelist" comment="" />
+      <created>1602918927961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602918927961</updated>
+      <workItem from="1602918929689" duration="21393000" />
+      <workItem from="1602982793115" duration="2881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602995224981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602995224981" />
+    <state width="736" height="53" key="GridCell.Tab.0.bottom" timestamp="1602948570173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="736" height="53" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602948570173" />
+    <state width="736" height="53" key="GridCell.Tab.0.center" timestamp="1602948570171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="736" height="53" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602948570171" />
+    <state width="736" height="53" key="GridCell.Tab.0.left" timestamp="1602948570168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="736" height="53" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602948570168" />
+    <state width="736" height="53" key="GridCell.Tab.0.right" timestamp="1602948570172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="736" height="53" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602948570172" />
+  </component>
+</project>
